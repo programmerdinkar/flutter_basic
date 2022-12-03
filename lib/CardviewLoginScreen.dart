@@ -50,9 +50,7 @@ class _CardviewLoginScreenState extends State<CardviewLoginScreen> {
               height: 500,
               margin: EdgeInsets.only(top: 25,bottom: 10,right: 25,left: 25),
               child: Stack(
-                  //alignment: Alignment.topRight,
-                  //
-                  // fit: StackFit.loose,
+                 
                   clipBehavior: Clip.hardEdge,
                 children:[ 
                   Container(
